@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 streamlit==1.46.0
 groq==0.28.0
 langchain==0.3.26
@@ -8,11 +8,4 @@ python-dotenv==1.1.0
 PyPDF2==3.0.1
 python-docx==1.2.0
 pandas==2.3.0
-=======
-streamlit
-sentence-transformers
-scikit-learn
-python-docx
-pdfminer.six
-docx2txt
->>>>>>> 9005281c8823ec795690716edb4dce376d4e04af
+
