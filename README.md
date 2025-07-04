@@ -35,12 +35,12 @@ This project is an AI-powered resume evaluation tool built with **Streamlit** an
 
 ## 🙋‍♂️ Author
 
--Made with ❤️ by Parth Sengar
--📫 LinkedIn (https://www.linkedin.com/in/parth-sengar-314621245/)
+- Made with ❤️ by Parth Sengar
+- 📫 LinkedIn (https://www.linkedin.com/in/parth-sengar-314621245/)
 
 ---
 
 ## ⚖️ License
 
--This project is licensed under the MIT License.
--Feel free to use, modify, and share with proper attribution.
+- This project is licensed under the MIT License.
+- Feel free to use, modify, and share with proper attribution.
