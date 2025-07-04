@@ -1,4 +1,3 @@
-
 import streamlit as st
 import streamlit.components.v1 as components
 from atschecker import check_ats_compliance
@@ -45,6 +44,10 @@ if st.button("🔍 Evaluate Resume"):
             st.markdown("### 🤖 ATS Compatibility Check")
             st.markdown(ats_feedback)
 
+            
+
+
+
             # Copy to clipboard button
             components.html(f"""
                 <textarea id="copyText" style="display:none;">{summary}</textarea>
@@ -72,3 +75,4 @@ if st.button("🔍 Evaluate Resume"):
             """, height=100)
 
         st.caption("💡 Tip: Improve your resume based on the above feedback and re-upload for better scoring.")
+
